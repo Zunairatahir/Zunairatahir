@@ -3,6 +3,6 @@
 <h3 align="center">An Information Technology Student</h3>
 
 <p align="Left">
-• 💬 Ask me about Front-End Development, Cybersecurity, and Ethical Hacking etc.
+• 💬 Ask me about HTML, CSS, Cybersecurity, and Ethical Hacking etc.
 </p>
 
